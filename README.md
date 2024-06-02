@@ -1,0 +1,14 @@
+# sys_oplus_mssi_64_cn-user 11 RP1A.200720.011 1609743540423 release-keys
+- manufacturer: alps
+- platform: mt6765
+- codename: oppo6765
+- flavor: sys_oplus_mssi_64_cn-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 1609743540423
+- tags: release-keys
+- fingerprint: alps/vnd_oppo6765/oppo6765:11/RP1A.200720.011/1609743540423:user/release-keys
+- is_ab: false
+- brand: alps
+- branch: sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1609743540423-release-keys
+- repo: alps_oppo6765_dump
