@@ -1,0 +1,71 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RP1A.200720.011
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3201
+ro.product.name=RMX3201EEA
+ro.product.device=RMX3201
+ro.product.first_api_level=29
+ro.build.version.incremental=1684743535912
+ro.build.version.base_os=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1657018051248:user/release-keys
+ro.build.version.release=11
+ro.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.odm.build.version.incremental=1684743535912
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3201
+ro.product.odm.device=RMX3201
+ro.product.odm.name=RMX3201EEA
+ro.odm.build.date=Mon May 22 16:18:55 CST 2023
+ro.odm.build.date.utc=1684743535
+ro.system.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.system.build.version.incremental=1684743535912
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX3201
+ro.product.system.device=RMX3201
+ro.product.system.name=RMX3201EEA
+ro.system.build.date=Mon May 22 16:18:55 CST 2023
+ro.system.build.date.utc=1684743535
+ro.bootimage.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.bootimage.build.version.incremental=1684743535912
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3201
+ro.product.bootimage.device=RMX3201
+ro.product.bootimage.name=RMX3201EEA
+ro.bootimage.build.date=Mon May 22 16:18:55 CST 2023
+ro.bootimage.build.date.utc=1684743535
+ro.vendor.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.vendor.build.version.incremental=1684743535912
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3201
+ro.product.vendor.device=RMX3201
+ro.product.vendor.name=RMX3201EEA
+ro.vendor.build.date=Mon May 22 16:18:55 CST 2023
+ro.vendor.build.date.utc=1684743535
+ro.system_ext.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.system_ext.build.version.incremental=1684743535912
+ro.product.system_ext.brand=realme
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=RMX3201
+ro.product.system_ext.device=RMX3201
+ro.product.system_ext.name=RMX3201EEA
+ro.system_ext.build.date=Mon May 22 16:18:55 CST 2023
+ro.system_ext.build.date.utc=1684743535
+ro.product.build.fingerprint=realme/RMX3201EEA/RMX3201:11/RP1A.200720.011/1684743535912:user/release-keys
+ro.product.build.version.incremental=1684743535912
+ro.product.product.brand=realme
+ro.product.product.manufacturer=realme
+ro.product.product.model=RMX3201
+ro.product.product.device=RMX3201
+ro.product.product.name=RMX3201EEA
+ro.product.build.date=Mon May 22 16:18:55 CST 2023
+ro.product.build.date.utc=1684743535
+
+# OPPO
